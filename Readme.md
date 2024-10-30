@@ -1,8 +1,8 @@
 # DEMO
 
-<video src="./output_videos/demo_video.mp4" controls="controls" width="600" height="400" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Demo Video](./demo_video.gif)
+
+[Watch the full video on YouTube](https://youtu.be/qO9DAAGrzR4)
 
 # Proyecto de Segmentación de Video para Conducción Autónoma
 
