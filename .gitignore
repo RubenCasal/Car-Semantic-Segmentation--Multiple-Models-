@@ -1,0 +1,17 @@
+data/
+data1/
+data2/
+data3/
+data4/
+data5/
+input_videos/
+Pedestrian_dataset/
+road_dataset/
+road_lines_dataset/
+road_marks/
+traffic_dataset/
+vehicle_dataset/
+output_videos/segmentation1.mp4
+output_videos/segmentation2.mp4
+output_videos/segmentation3.mp4
+models/
