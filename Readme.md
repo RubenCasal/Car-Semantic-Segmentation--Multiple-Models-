@@ -1,8 +1,12 @@
 # DEMO
+<p align="center">
+  <img src="./demo_video.gif" alt="Demo Video" width="500" />
+</p>
 
-![Demo Video](./demo_video.gif)
+<p align="center">
+  <a href="https://youtu.be/qO9DAAGrzR4" target="_blank">Watch the full video on YouTube</a>
+</p>
 
-[Watch the full video on YouTube](https://youtu.be/qO9DAAGrzR4)
 
 # Proyecto de Segmentación de Video para Conducción Autónoma
 
